@@ -136,7 +136,39 @@ mbure@LAPTOP-5NCBR2S9 MINGW64 ~/Documents/Digital School B1/Git/TP GITHUB (file)
 $ git commit -m 'Ajout du fichier READ.ME'
 [file 1f8a512] Ajout du fichier READ.ME
  3 files changed, 150 insertions(+)
- create mode 100644 README.md
+ create mode 100644 README.mdmbure@LAPTOP-5NCBR2S9 MINGW64 ~/Documents/Digital School B1/Git/TP GITHUB (file)
+$  git push --set-upstream origin file
+Enumerating objects: 11, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 1.89 KiB | 969.00 KiB/s, done.
+Total 8 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+remote:
+remote: Create a pull request for 'file' on GitHub by visiting:
+remote:      https://github.com/MarionBureau/lds21/pull/new/file
+remote:
+To https://github.com/MarionBureau/lds21.git
+ * [new branch]      file -> file
+Branch 'file' set up to track remote branch 'file' from 'origin'.
+
+ mbure@LAPTOP-5NCBR2S9 MINGW64 ~/Documents/Digital School B1/Git/TP GITHUB (file)
+$  git push --set-upstream origin file
+Enumerating objects: 11, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 1.89 KiB | 969.00 KiB/s, done.
+Total 8 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+remote:
+remote: Create a pull request for 'file' on GitHub by visiting:
+remote:      https://github.com/MarionBureau/lds21/pull/new/file
+remote:
+To https://github.com/MarionBureau/lds21.git
+ * [new branch]      file -> file
+Branch 'file' set up to track remote branch 'file' from 'origin'.
 
 
 Code HTML 
