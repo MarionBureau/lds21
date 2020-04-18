@@ -129,6 +129,15 @@ To https://github.com/MarionBureau/lds21.git
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 mbure@LAPTOP-5NCBR2S9 MINGW64 ~/Documents/Digital School B1/Git/TP GITHUB (file)
 $ touch README.md
+mbure@LAPTOP-5NCBR2S9 MINGW64 ~/Documents/Digital School B1/Git/TP GITHUB (file)
+$ git add .
+
+mbure@LAPTOP-5NCBR2S9 MINGW64 ~/Documents/Digital School B1/Git/TP GITHUB (file)
+$ git commit -m 'Ajout du fichier READ.ME'
+[file 1f8a512] Ajout du fichier READ.ME
+ 3 files changed, 150 insertions(+)
+ create mode 100644 README.md
+
 
 Code HTML 
 Ajout titre H1
